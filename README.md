@@ -30,24 +30,24 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+ # Project Description
 
-  <h3 align="center">Best-README-Template</h3>
+[Twitter](https://twitter.com/?lang=en) has become an important communication channel in times of emergency.   
+The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time.    
+Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
 
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+# Objective     
+
+[Sentiment analysis](https://en.wikipedia.org/wiki/Sentiment_analysis) is a common use case of [NLP](https://machinelearningmastery.com/natural-language-processing/) where the idea is to classify the tweet as positive, negative or neutral depending upon the text in the tweet.     
+This problem goes a way ahead and expects us to also determine the words in the tweet which decide the polarity of the tweet.
+
+In this project [Machine Learning](https://www.geeksforgeeks.org/machine-learning/) models are implemented for predicting that a tweet regarding a disaster is real or fake    
+Whole code below is in [Python](https://www.python.org/) using various libraries. Open source library [Scikit-Learn](https://scikit-learn.org/) is used for creating the models.
+
+<p align="center">
+    <br clear="right"/>
+    <img src="https://geeklevel1000.com/wp-content/uploads/2019/01/Machine-learning-768x512.jpg" alt="Tweets" width="800" height="1000" />
+</p>
 </div>
 
 

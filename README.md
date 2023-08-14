@@ -43,7 +43,7 @@ Whole code below is in [Python](https://www.python.org/) using various libraries
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Python][Next.js]][Next-url]
+* Python
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

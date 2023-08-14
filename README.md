@@ -73,19 +73,29 @@ Each sample in the train and test set has the following information:
 # The text of a tweet
 <p>A keyword from that tweet (although this may be blank!)</p>
 <p>The location the tweet was sent from (may also be blank)</p>
-What am I predicting?
-You are predicting whether a given tweet is about a real disaster or not. If so, predict a 1. If not, predict a 0.
+<p>What am I predicting?</p>
+<p>You are predicting whether a given tweet is about a real disaster or not. If so, predict a 1. If not, predict a 0.</p
+
 
 # Files
-train.csv - the training set
-test.csv - the test set
-sample_submission.csv - a sample submission file in the correct format
+<p>train.csv - the training set</p
+
+
+
+<p>test.csv - the test set</p>
+<p>sample_submission.csv - a sample submission file in the correct format</p>
+
+
+
 # Columns
-id - a unique identifier for each tweet
-text - the text of the tweet
-location - the location the tweet was sent from (may be blank)
-keyword - a particular keyword from the tweet (may be blank)
-target - in train.csv only, this denotes whether a tweet is about a real disaster (1) or not (0)
+<p>id - a unique identifier for each tweet</p>
+<p>text - the text of the tweet</p>
+<p>location - the location the tweet was sent from (may be blank)</p>
+<p>keyword - a particular keyword from the tweet (may be blank)</p>
+<p>target - in train.csv only, this denotes whether a tweet is about a real disaster (1) or not (0)</p>
+
+
+
 
 
 

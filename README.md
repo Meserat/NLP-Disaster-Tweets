@@ -71,8 +71,8 @@ You'll need train.csv, test.csv and sample_submission.csv.
 Each sample in the train and test set has the following information:
 
 # The text of a tweet
-A keyword from that tweet (although this may be blank!)
-The location the tweet was sent from (may also be blank)
+<p>A keyword from that tweet (although this may be blank!)</p>
+<p>The location the tweet was sent from (may also be blank)</p>
 What am I predicting?
 You are predicting whether a given tweet is about a real disaster or not. If so, predict a 1. If not, predict a 0.
 
